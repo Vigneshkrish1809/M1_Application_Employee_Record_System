@@ -10,7 +10,7 @@ You will learn how to add, list, modify and delete data to/from file. The source
 # Features
 
 1.Add record
-2.List record
+ 2.List record
 3.Modify record
 4.Delete record
 
