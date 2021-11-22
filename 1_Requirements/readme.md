@@ -22,7 +22,7 @@ You will learn how to add, list, modify and delete data to/from file. The source
 
 2.It basically manipulate file handling and data structures.
 
-3.It can be used by anyone at any place.
+3.It can be used by anyone in company.
 
 # Where:
 
