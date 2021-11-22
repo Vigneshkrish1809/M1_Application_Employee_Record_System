@@ -19,17 +19,21 @@ You will learn how to add, list, modify and delete data to/from file. The source
 # Why:
 
 1.To reduce the complexity of financial calculations.
+
 2.It basically manipulate file handling and data structures.
+
 3.It can be used by anyone at any place.
 
 # Where:
 
 1.This can be used to edit data from anywhere.
+
 2.We can use it in any company.
 
 # Who:
 
 1.It can be used by any employees.
+
 2.Can be used as a reference.
 
 
