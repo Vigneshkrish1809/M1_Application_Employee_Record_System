@@ -41,6 +41,7 @@ You will learn how to add, list, modify and delete data to/from file. The source
 # Strengths
 
 1.Perform financial calculations easily
+
 2.It helps to add or modify data in the record system.
 
 # Weakness
