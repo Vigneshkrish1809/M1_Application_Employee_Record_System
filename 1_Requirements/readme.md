@@ -59,7 +59,7 @@ You will learn how to add, list, modify and delete data to/from file. The source
 # HIGH Level Requirements
 
 | ID | Description | Status |
-|---|---|---|---|---|---|
+|---|---|---|
 |HLTP_1|The user can Add data |Implemented|
 |HLTP_2|The user can List data|Implemented|
 |HLTP_3|The user can Modify data|Implemented|
@@ -68,7 +68,7 @@ You will learn how to add, list, modify and delete data to/from file. The source
 # LOW Level Requirements
 
 | ID | Description | Status |
-|---|---|---|---|---|---|
+|---|---|---|
 |HLTP_1|Add data |Implemented|
 |HLTP_2|List data|Implemented|
 |HLTP_3|Modify data|Implemented|
