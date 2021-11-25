@@ -82,6 +82,17 @@ You will learn how to add, list, modify and delete data to/from file. The source
 
 ![structure diagram](https://user-images.githubusercontent.com/70203719/143457674-93318d10-3fc5-4ef8-be6d-3bf233c6dd34.png)
 
+# Folder Structure
+
+| Folder   |      Description     |  
+|----------|:-------------:|
+| 1_Requirements |  Documents detailing requirements and research |
+| 2_Design |    Documents specifying design  | 
+| 3_Implementation |   All codes and Documentation  |
+| 4_TestPlan |  Documents with test plans |
+| 5_Report |    Documentation of whole project  | 
+| 6_Images |    All the images of this project  |
+
 # HIGH Level Test Plan
 
 | ID | Description | Expected I/P | Expected O/P | Actual O/P | Type Of Test |
